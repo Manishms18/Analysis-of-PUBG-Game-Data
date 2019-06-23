@@ -1,0 +1,35 @@
+set hive.cli.print.header=true;
+ALTER TABLE pubg_new ADD COLUMNS (Match_type string);
+INSERT OVERWRITE TABLE pubg_new
+SELECT 
+         Id ,
+         groupId ,
+         matchId ,
+         assists ,
+         boosts ,
+         damageDealt ,
+         DBNOs,
+         headshotKills ,
+         heals,
+         killPlace ,
+         killPoints,
+         kills ,
+         killStreaks ,
+         longestKill,
+         maxPlace ,
+         numGroups ,
+         revives,
+         rideDistance ,
+         roadKills ,
+         swimDistance ,
+         teamKills,
+         vehicleDestroys ,
+         walkDistance,
+         weaponsAcquired,
+         winPoints,
+         winPlacePerc,
+		 winquartiles,
+		 winorlose,
+		if(numgroups > 50, 'solo',if (numgroups > 25 AND numgroups <= 50,'Duo',
+	'Squad')) 
+as match_type from pubg_new;
