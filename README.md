@@ -27,7 +27,7 @@ The goal of the study was to learn data analysis using various big data tools. I
 
 ## Setup
 The data for the analysis has been sourced from [Kaggle](https://www.kaggle.com/c/pubg-finish-placement-prediction). 
-All the codes used in the analysis can be accessed [here](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/tree/master/code) and can be used to reproduce the result. 
+All the codes used in the analysis can be accessed [here](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/tree/master/code) and can be used to reproduce the results. 
 A detailed explanation of the various operations and the interpretations of the outputs can be found in the [project report](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/blob/master/Big%20Data%20Project%20.pdf).
 
 ## Code Examples
