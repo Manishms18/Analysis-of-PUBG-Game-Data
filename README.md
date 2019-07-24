@@ -91,7 +91,7 @@ predictions = lr_model.transform(test_df)
 predictions.select("prediction","winplaceperc","features").show()
 ````
 
-## Features
+## Features  
 The analysis is focussed on answering questions stated below:
   * Does killing more people increases the chance of winning the game?
   * Can we predict the finishing position of a player in the game?
