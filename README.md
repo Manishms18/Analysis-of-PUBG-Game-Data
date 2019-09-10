@@ -1,5 +1,5 @@
 # Player Unknown's Battle Grounds (PUBG) Game Data Analysis   
-> An analysis of Player Unknown's Battle Grounds (PUBG) Game Data using Hive, Impala and Spark. Presentation for the report can be found in [project presentation](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/blob/master/Big%20Data%20Project%20.pdf).         
+> An analysis of Player Unknown's Battle Grounds (PUBG) Game Data using Hive, Impala and Spark. Presentation for the report can be found in [project presentation](https://github.com/Manishms18/Analysis-of-PUBG-Game-Data/blob/master/Big%20Data%20Project%20.pdf).         
      
 ## Table of contents
 * [General info](#general-info)
@@ -28,8 +28,8 @@ The goal of the study was to learn data analysis using various big data tools. I
 
 ## Setup
 The data for the analysis has been sourced from [Kaggle](https://www.kaggle.com/c/pubg-finish-placement-prediction). 
-All the codes used in the analysis can be accessed [here](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/tree/master/code) and can be used to reproduce the results. 
-A detailed explanation of the various operations and the interpretations of the outputs can be found in the [project report](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/blob/master/Big%20Data%20Project%20.pdf).
+All the codes used in the analysis can be accessed [here](https://github.com/Manishms18/Analysis-of-PUBG-Game-Data/tree/master/code) and can be used to reproduce the results. 
+A detailed explanation of the various operations and the interpretations of the outputs can be found in the [project report](https://github.com/Manishms18/Analysis-of-PUBG-Game-Data/blob/master/Big%20Data%20Project%20.pdf).
 
 ## Code Examples
 
@@ -98,7 +98,7 @@ The analysis is focussed on answering questions stated below:
   * Can we predict the finishing position of a player in the game?
   * How do we catch the cheaters in the game?
   
-The answers to the questions can be found in the [report](https://github.com/ashish1993utd/PUBG-Game-Data-Analysis/blob/master/Big%20Data%20Project%20.pdf). 
+The answers to the questions can be found in the [report](https://github.com/Manishms18/Analysis-of-PUBG-Game-Data/blob/master/Big%20Data%20Project%20.pdf). 
 
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
