@@ -14,7 +14,6 @@
 
 The goal of the study was to learn data analysis using various big data tools. I am a great fan of PUBG mobile game and the game developer had recently released the dataset on Kaggle. So I decided to take it up for the project, that way I also have an analytics edge when playing the game. 
 
-
 ## Screenshots
 ![Example screenshot](./img/Capture.PNG)
 ![Example screenshot](./img/Capture1.PNG)
